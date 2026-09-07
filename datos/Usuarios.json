@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "usuario": "ejemplo",
+    "contrasena": "Ejemplo123",
+    "puntaje": 80,
+    "total_partidas": 2,
+    "total_primeros_turnos": 1,
+    "palabras_usadas": [
+      "PERRO"
+    ]
+  },
+  {
+    "id": 2,
+    "usuario": "invitado",
+    "contrasena": "Invitado123",
+    "puntaje": 0,
+    "total_partidas": 1,
+    "total_primeros_turnos": 0,
+    "palabras_usadas": [
+      "MIRAR"
+    ]
+  }
+]
