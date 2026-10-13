@@ -49,3 +49,7 @@ Python puro (sin dependencias externas): módulos `json`, `re`, `random`, `time`
 - Corregir la superposición visual de intentos en algunos anchos de terminal.
 - Unificar el sistema de dificultades (actualmente conviven varias formas de definirla).
 - Sumar más validación de bordes en el manejo de sesión sin login previo.
+
+## Licencia
+
+El código está bajo licencia [MIT](LICENSE).
